@@ -5,7 +5,7 @@ When you extract `PocketEDA_Source.zip` into a project folder (e.g. `pocketeda/`
 your folder and file hierarchy should match the exact tree below:
 
 pocketeda/
-├── .env.example
+├── .env.example <br>
 ├── .gitignore
 ├── FILE_STRUCTURE.txt
 ├── index.html
